@@ -1,4 +1,4 @@
-# Hermite_Rank_Estimation
+# Hermite Rank Estimation
 ## data folder 
 1) crn files downloaded from International Tree-RingData Bank.
 2) SnP500WSJ.csv downloaded from Wall Street Journal website.
