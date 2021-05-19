@@ -4,17 +4,17 @@
 2) SnP500WSJ.csv downloaded from Wall Street Journal website
 
 ## cache folder
-Processed outputs for 
-1) simulation study 
-2) Stock indices
-3) tree ring data
+Processed rds formatting outputs for 
+1) Simulation study 
+2) Stock indices analysis
+3) Tree ring data analysis
 in order to generate final summary tables and plots
 
 ## functions folder
 functions for generating LRD process and Hermite rank estimation function.
 
 ## main folder
-Main codes to generate outputs for three parts.
+Main codes to generate outputs for three parts as shown in cache folder section.
 
 ## plots folder
 Plots for Hermite rank estimation included paper
